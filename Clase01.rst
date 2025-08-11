@@ -180,7 +180,7 @@ A continuación se propone una serie de actividades que cada estudiante debe seg
 5. **Primeros pasos con Git y GitHub**
 
    - Crear una cuenta en `GitHub <https://github.com/join>`_ si aún no la tienes.
-   - Crear un nuevo repositorio privado o público llamado ``curso-piii-2025``.
+   - Crear un nuevo repositorio privado o público llamado ``curso-piii``.
    - Inicializar Git en la carpeta de códigos y realizar las primeras confirmaciones:
 
      .. code-block:: bash
@@ -196,7 +196,7 @@ A continuación se propone una serie de actividades que cada estudiante debe seg
 
      .. code-block:: bash
 
-        git remote add origin https://github.com/tu_usuario/curso-piii-2025.git
+        git remote add origin https://github.com/tu_usuario/curso-piii.git
         git branch -M main
         git push -u origin main
 

@@ -18,6 +18,17 @@ Objetivos
 - Generar y reproducir señales de audio en Python.
 - Publicar el trabajo final en GitHub.
 
+Requisitos
+----------
+- Python instalado o Google Colab listo.
+- Paquetes: ``numpy``, ``matplotlib``.
+
+Material inicial
+----------------
+Cree el repo ``curso-piii`` (si aún no lo hizo) y agregue una carpeta con el número de la clase ``clase<N>`` con:
+- ``clase<N>.ipynb`` o ``clase<N>.py``.
+
+
 --------------------------
 Módulos y paquetes
 --------------------------
