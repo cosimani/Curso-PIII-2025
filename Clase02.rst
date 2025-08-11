@@ -77,16 +77,16 @@ Importación desde paquetes:
     from operaciones import matematicas
     from operaciones.matematicas import sumar
 
-Ejercicio
-~~~~~~~~~
+Ejercicio 1
+~~~~~~~~~~~
 - Crear un módulo que grafique una portadora sinusoidal y otra que la module en amplitud.
 
 --------------------------
 Manipulación de secuencias
 --------------------------
 
-Ejercicio
-~~~~~~~~~
+Ejercicio 2
+~~~~~~~~~~~
 - Dada ``y = np.cos(n)``, mostrar los primeros 50 valores, reemplazando con 0 los negativos.
 
 .. code-block:: python
@@ -122,8 +122,8 @@ Ejemplo de gráficos
 Muestreo y cuantificación
 --------------------------
 
-Ejercicio
-~~~~~~~~~
+Ejercicio 3
+~~~~~~~~~~~
 - Señal continua senoidal de 1 kHz, amplitud -5 a 5, mostrar sólo 10 ms.
 - Muestrear a 50 kHz y graficar las primeras 50 muestras sin cuantificar.
 - Graficar las mismas 50 muestras cuantificadas (ADC 12 bits).
@@ -217,14 +217,14 @@ Estructuras de control
 
 
 
-Ejercicio
-~~~~~~~~~
+Ejercicio 4
+~~~~~~~~~~~
 - Reproducir la escala pentatónica menor de La.
 - Sonar como en: https://es.wikipedia.org/wiki/Archivo:PentMinor.mid
 
 
-Ejercicio
-~~~~~~~~~
+Ejercicio 5
+~~~~~~~~~~~
 - Replicar exactamente la siguiente secuencia:
 
 .. figure:: images/plot_para_replicar.png
