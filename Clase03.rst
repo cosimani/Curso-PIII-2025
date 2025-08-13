@@ -615,3 +615,11 @@ Pasos
 4) Discutir en qué casos se observa aliasing y cómo se “mezclan” las frecuencias.
 
 
+
+
+--------------------------
+Entrega en GitHub
+--------------------------
+1. Subir el código y gráficos generados.
+2. Usar la carpeta Clase03
+3. Documentar en ``README.md`` cada ejercicio.

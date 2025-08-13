@@ -223,19 +223,12 @@ Ejercicio 4
 - Sonar como en: https://es.wikipedia.org/wiki/Archivo:PentMinor.mid
 
 
-Ejercicio 5
-~~~~~~~~~~~
-- Replicar exactamente la siguiente secuencia:
-
-.. figure:: images/plot_para_replicar.png
-
-
 --------------------------
 Entrega en GitHub
 --------------------------
 1. Subir el código y gráficos generados.
 2. Documentar en ``README.md`` cada ejercicio.
-3. Confirmar que todos los scripts funcionan desde un entorno limpio.
+
 
 
 
