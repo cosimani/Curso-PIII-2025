@@ -239,6 +239,8 @@ Espectrograma (ipynb)
    plot_tiempo_frecuencia_espectrograma( grabacion, sample_rate )
 
 
+
+
 Ejercicio 9
 ===========
 
@@ -248,7 +250,7 @@ Ejercicio 9
 - Reproducir el archivo .wav
 - Realizarlo ahora con archivos mp3. 
 
----
+----
 
 
 Ejercicio 10
@@ -273,7 +275,7 @@ Pasos
 4) Calcular la SNR aproximada y compararla con la fórmula teórica:  
    ``SNR ≈ 6.02*Nbits + 1.76 dB``.
 
----
+----
 
 
 
@@ -302,9 +304,10 @@ Ejemplos con distintos valores de factor de suavizado
 
 .. figure:: images/sumatoria_ema.png
 
+----
 
 Ejercicio 11
-============
+------------
 
 - Capturar con el micrófono algunos segundos.
 - Definir una función que aplique este filtro de media móvil exponencial.
@@ -313,7 +316,7 @@ Ejercicio 11
 - Plotear la señal original y la filtrada superpuestas para notar el suavizado.
 
 
-
+----
 
 --------------------------
 Entrega en GitHub
