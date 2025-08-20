@@ -38,31 +38,6 @@ Pasos
 
 ---
 
-Ejercicio 9
-============
-
-**Cuantificación y distorsión por granularidad**
-
-Objetivo
---------
-
-- Implementar un cuantificador uniforme de ``Nbits`` configurable.
-- Comparar la señal original y la cuantificada, tanto en el dominio del tiempo como en el espectro.
-
-Pasos
------
-
-1) Generar una onda seno de 440 Hz, amplitud 1.0 y duración 2 segundos a 44.1 kHz.
-2) Implementar una función ``cuantificar`` que reciba los parámetros para la cuantificación y que devuelva la señal cuantificada.
-3) Probar con distintos ``Nbits`` (8, 4, 2) y graficar:
-   - Señal original vs. cuantificada (zoom a unas pocas ondas).
-   - Error de cuantificación.
-4) Calcular la SNR aproximada y compararla con la fórmula teórica:  
-   ``SNR ≈ 6.02*Nbits + 1.76 dB``.
-
----
-
-
 
 
 
