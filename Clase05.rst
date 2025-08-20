@@ -9,9 +9,11 @@ Clase 05 - PIII 2025
 
 
 
+Espectrograma (ipynb)
+=====================
 
-`Espectrograma (ipynb) <https://colab.research.google.com/drive/13pAwFsh85rQo9aO9sPgh1W9acqZMRXBW?usp=sharing>`_ 
-=====================================
+`Abrir en Colab <https://colab.research.google.com/drive/13pAwFsh85rQo9aO9sPgh1W9acqZMRXBW?usp=sharing>`_
+
 
 .. code-block:: python
    
