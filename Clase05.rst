@@ -256,7 +256,7 @@ Ejercicio 9
 Ejercicio 10
 ============
 
-**Cuantificación y distorsión por granularidad**
+**Cuantificación y distorsión**
 
 Objetivo
 --------
