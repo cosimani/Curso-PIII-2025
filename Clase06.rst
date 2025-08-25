@@ -4,7 +4,7 @@
 
 Clase 06 - PIII 2025
 ====================
-(Fecha: 26 de agosto)
+(Fecha: 25 de agosto)
 
 
 
