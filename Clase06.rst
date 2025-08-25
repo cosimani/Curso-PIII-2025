@@ -13,11 +13,7 @@ Ejercicio 12
 
 **Multiplicación de señales: modulación de amplitud simple (AM-DSB)**
 
-Objetivo
---------
-
 - Implementar una modulación AM básica multiplicando una señal de mensaje por una portadora.
-
 
 1) Crear una señal de mensaje ``m(t)``: seno de 200 Hz, amplitud 1.0.
 2) Crear una señal portadora ``c(t)``: seno de 5 kHz, amplitud 1.0.
