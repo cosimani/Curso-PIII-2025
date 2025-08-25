@@ -18,8 +18,6 @@ Objetivo
 
 - Implementar una modulación AM básica multiplicando una señal de mensaje por una portadora.
 
-Pasos
------
 
 1) Crear una señal de mensaje ``m(t)``: seno de 200 Hz, amplitud 1.0.
 2) Crear una señal portadora ``c(t)``: seno de 5 kHz, amplitud 1.0.
@@ -30,10 +28,6 @@ Pasos
    - Señal modulada.
    - Espectro de la modulada (FFT hasta 8 kHz).
 
-
-Variantes
-
----------
 
 - Probar con distintos índices de modulación (cambiar la amplitud de ``m(t)``).
 - Observar la distorsión cuando el índice de modulación es > 1 (sobremodulación).
