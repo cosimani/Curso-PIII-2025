@@ -28,6 +28,13 @@ Ejercicio 12
 - Probar con distintos índices de modulación (cambiar la amplitud de ``m(t)``).
 - Observar la distorsión cuando el índice de modulación es > 1 (sobremodulación).
 
+Extras: Graficar todas estas:
+======
+
+- AM-DSB con portadora (AM-DSB-FC)
+- AM-DSB sin portadora (AM-DSB-SC)
+- AM con banda lateral única (SSB - Single Side Band)
+- SSB con portadora suprimida (SSB-SC)
 
 
 
