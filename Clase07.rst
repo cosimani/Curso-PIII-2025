@@ -157,7 +157,7 @@ Ejercicio 15
 - ¿Qué pasa si se multiplican? Es modulación AM? Con portadora, sin portadora, o qué? Analizarlo.
 
 
-
+----
 
 
 .. figure:: images/sistema_comunicaciones_parte1.png
@@ -183,7 +183,7 @@ Ejercicio 15
 
 	import numpy as np
 	import matplotlib.pyplot as plt
-	plt.style.use( 'seaborn-darkgrid' )
+	plt.style.use( 'seaborn-v0_8-darkgrid' )
 
 	# ====================
 	#  Generación de g[n] 
@@ -207,12 +207,12 @@ Ejercicio 15
 	fig.set_figwidth( 15 )
 	fig.set_figheight( 10 )
 
-	axs[ 0 ].stem( t, gn, use_line_collection = True )
+	axs[ 0 ].stem( t, gn )
 	axs[ 0 ].set_title( 'Gráfico 1' )
 	axs[ 0 ].set_xlabel( 'n' )
 	axs[ 0 ].set_ylabel( 'gn' )
 
-	axs[ 1 ].stem( t[ 100 : 150 ], gn[ 100 : 150 ], use_line_collection = True )
+	axs[ 1 ].stem( t[ 100 : 150 ], gn[ 100 : 150 ] )
 	axs[ 1 ].set_title( 'Gráfico 2' )
 	axs[ 1 ].set_xlabel( 'n' )
 	axs[ 1 ].set_ylabel( 'gn' )
