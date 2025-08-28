@@ -165,6 +165,6 @@ Entrega en GitHub
 1. Subir códigos y gráficos generados.
 2. Usar la carpeta Clase07
 3. Documentar en ``README.md`` cada ejercicio.
-4. Próxima clase, 20 minutos cada estudiante para presentar oralmente en GitHub los 16 ejercicios.
+4. Próxima clase, 20 minutos cada estudiante para presentar oralmente en GitHub los 15 ejercicios.
 
 
