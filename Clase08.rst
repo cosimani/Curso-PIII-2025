@@ -56,11 +56,11 @@ Organización por roles (uno por estudiante)
 -------------------------------------------
 
 - **HW & Canal**: enlace (analógico o simulado), cableado, niveles de voltaje,
-  protección y acondicionamiento (divisores, RC).
+  protección y acondicionamiento (divisores, RC). **Gonzalo**
 - **TX**: generación de símbolos **PAM4** en el transmisor (con **dsPIC** como fuente
-  o directamente en **ESP32**), tramas (preambulo/sync/CRC).
+  o directamente en **ESP32**), tramas (preambulo/sync/CRC). **Leonardo**
 - **RX**: muestreo, sincronización (correlación de preámbulo), decisión por umbrales
-  adaptativos, recuperación de bits y métricas locales.
+  adaptativos, recuperación de bits y métricas locales. **Candela**
 - **Visualización**: recepción en PC (Wi‑Fi), graficación (tiempo, **FFT**, **ojo**),
-  y cálculo de **BER**, **SNR**, **latencia**, **jitter**.
+  y cálculo de **BER**, **SNR**, **latencia**, **jitter**. **Eric**
 
