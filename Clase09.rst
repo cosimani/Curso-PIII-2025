@@ -72,15 +72,6 @@ Clase 09 - PIII 2025
    plt.show()
 
 
-Ejercicio 16
-============
-
-- Acercar el aspecto a la siguiente gráfica. Es decir, adornar con las leyendas, ejes de coordenadas, etc.
-
-.. figure:: images/filtro_sinc_plot.png
-
-
-
 ----
 
 
@@ -177,13 +168,6 @@ Ejercicio 16
    print( simbolos_PAM2 )
 
 
-Ejercicio 17:
-=============
-
-- Explicar cada una de las líneas en donde se generan los símbolos.
-- Generar 1.000 símbolos para PAM4: (`Aquí una lectura rápida sobre PAM4 <https://community.fs.com/es/blog/pam4-for-400g-ethernet-applications.html>`_ )
-
-
 
 .. figure:: images/rolloff_parte1.png
 
@@ -215,12 +199,12 @@ Secuencia extendida
 
 
 
-Ejercicio 18:
+Ejercicio 16:
 =============
 
 - **1-** Lograr la secuencia extendida mostrada anteriormente.
 
-- **2-** Realizar el diagrama ojo para PAM4
+- **2-** Realizar el diagrama ojo para PAM4 (`Aquí una lectura rápida sobre PAM4 <https://community.fs.com/es/blog/pam4-for-400g-ethernet-applications.html>`_ )
 - **3-** Ampliar la gráfica del diagrama ojo para visualizarla más cercana a la siguiente imagen:
 
 .. figure:: images/ojo_parte7.png
