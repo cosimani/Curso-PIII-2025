@@ -228,14 +228,5 @@ Ejercicio 17:
 
 
 
-----
-
---------------------------
-Entrega en GitHub
---------------------------
-1. Subir códigos, ipynb, gráficos generados, etc.
-2. Usar la carpeta Clase10
-3. Documentar en ``README.md`` el ejercicio.
-
 
 
