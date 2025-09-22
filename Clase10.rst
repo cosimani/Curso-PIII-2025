@@ -20,6 +20,7 @@ NRZ-L (Non-Return-to-Zero-Level)
 --------------------------------
 
 - Cada bit se representa directamente con un nivel de voltaje fijo:
+
   - '1' → nivel de voltaje alto.
   - '0' → nivel de voltaje bajo (cercano a 0 V).
 
@@ -28,10 +29,9 @@ NRZ-L (Non-Return-to-Zero-Level)
 
 .. code-block:: text
 
-   tiempo →   |  b1 |  b2 |  b3 |  b4 |  b5 |  b6 |
-   bits       |  1  |  0  |  0  |  1  |  1  |  0  |
-   NRZ-L      |_____|-----|-----|_____|_____|-----|
-               ↑alto  ↓bajo ↓bajo  ↑alto  ↑alto  ↓bajo
+  tiempo →  | b1 | b2 | b3 | b4 | b5 | b6 |
+  bits      |  1 |  0 |  0 |  1 |  1 |  0 |
+  NRZ-L     | ‾‾‾| ___| ___| ‾‾‾| ‾‾‾| ___|
 
 
 NRZ-I (Non-Return-to-Zero-Inverted)
@@ -45,11 +45,13 @@ NRZ-I (Non-Return-to-Zero-Inverted)
 
 .. code-block:: text
 
-   tiempo →   |  b1 |  b2 |  b3 |  b4 |  b5 |  b6 |
-   bits       |  1  |  0  |  0  |  1  |  1  |  0  |
-   regla      | inv | mant| mant| inv | inv | mant|
-   NRZ-I      |_____|_____|_____|-----|_____|_____|
-                 ↑invierte a alto     ↓invierte a bajo  ↑invierte a alto
+    tiempo →  | b1 | b2 | b3 | b4 | b5 | b6 |
+    bits      |  1 |  0 |  0 |  1 |  1 |  0 |
+    regla     |inv |mant|mant|inv |inv |mant|
+    nivel ini: bajo
+    
+    NRZ-I     ___ ___ ___ ─── ___ ___
+              ↑inv       ↓inv   ↑inv
 
    Paso a paso:
    - b1=1: invierte (bajo→alto) → queda alto
@@ -226,6 +228,14 @@ Ejercicio 17:
 
 
 
+----
+
+--------------------------
+Entrega en GitHub
+--------------------------
+1. Subir códigos, ipynb, gráficos generados, etc.
+2. Usar la carpeta Clase10
+3. Documentar en ``README.md`` el ejercicio.
 
 
 
