@@ -204,7 +204,7 @@ Descripción
    - La salida analógica del DAC R2R debe ser observable con un osciloscopio.
 
 
-
+----
 
 
 .. figure:: images/ejemplo_conexion_micro.png
