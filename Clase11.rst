@@ -195,7 +195,7 @@ Descripción
 
    - Usa la lectura del ADC para ajustar la frecuencia de un tono. La señal debe ser generada en función de la lectura del ADC y salida a través de los 10 pines digitales configurados.
 
-   - La frecuencia del tono debe variar en función del voltaje medido por el ADC, con un rango de frecuencia entre 100 Hz y 1 kHz.
+   - La frecuencia del tono debe variar en función del voltaje medido por el ADC, con un rango de frecuencia entre 50 Hz y 500 Hz.
 
 4. **Salida a DAC R2R:**
 
@@ -247,7 +247,7 @@ Ejercicio 19:
 =============
 
 - Escribir un programa para un dsPIC 4013 para que encienda un led a 3 segundos y otro a 11 segundos.
-- implementar en la placa de desarrollo.
+- Implementar en la placa de desarrollo.
 
 
 
