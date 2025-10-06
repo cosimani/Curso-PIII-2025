@@ -243,13 +243,6 @@ Descripción
 	}
 
 
-Ejercicio 19:
-=============
-
-- Escribir un programa para un dsPIC 4013 para que encienda un led a 3 segundos y otro a 11 segundos.
-- Implementar en la placa de desarrollo.
-
-
 
 
 
