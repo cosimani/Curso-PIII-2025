@@ -76,7 +76,6 @@ Estudiante 4 — Monitoreo
   - Señales en el dominio del tiempo  
   - FFT y espectro de frecuencia  
   - Diagrama de ojo  
-  - BER, SNR, latencia y jitter  
 
 - Permite comparar el rendimiento de todo el sistema y registrar resultados.
 
